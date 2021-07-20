@@ -1,0 +1,3 @@
+u should use exit command at end to save to files 
+if u forgot u will got an error
+to solve this error delete all Files(remove all files except FileSystemAllocation.iml)
